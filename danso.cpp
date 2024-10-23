@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// Định nghĩa struct để lưu trữ thông tin dân số
 struct DanSo {
     int nam;
     int so_nguoi_sinh_ra;
